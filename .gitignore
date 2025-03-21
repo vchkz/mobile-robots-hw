@@ -1,0 +1,10 @@
+~*
+*~
+*.pyc
+*.egg-info
+.DS_Store
+.vscode/
+/ros_ws/install/
+/ros_ws/build/
+/ros_ws/devel/
+/ros_ws/log/
